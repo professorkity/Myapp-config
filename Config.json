@@ -1,0 +1,11 @@
+# Myapp-config
+{
+  "status": "ok",
+  "message": "App is working from my server!",
+  "update_url": "https://yourserver.com/update.apk",
+  "features": [
+    "Login bypass",
+    "Custom settings",
+    "Extra configs"
+  ]
+}
